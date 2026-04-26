@@ -193,7 +193,7 @@ Expected output:
 multimodal_lstm_predictions.parquet
 ```
 
-## Notes for graders
+## Notes
 
 - The modeling notebooks can be run independently after `preprocessing.ipynb` has produced the split parquet files.
 - `combined.ipynb` additionally requires `embed_df.parquet`, which is produced by `distilBERT.ipynb`.
