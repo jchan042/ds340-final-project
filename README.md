@@ -201,7 +201,7 @@ multimodal_lstm_predictions.parquet
 - TF-IDF and DistilBERT read directly from the Google Drive project folder.
 - Figures in the paper show representative keywords/cities for readability; the reported metrics are computed across all available city-keyword combinations.
 
-## Suggested run order summary
+## Suggested run order 
 
 ```text
 1. preprocessing.ipynb
